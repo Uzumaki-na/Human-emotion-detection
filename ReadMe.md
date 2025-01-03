@@ -88,3 +88,6 @@ The project uses a dataset with three emotion classes:
 
 Feel free to open issues or submit pull requests for improvements or bug fixes.
 
+## 📜 License
+
+This project is open-sourced under the MIT License.
